@@ -1,0 +1,24 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .dashboard th,
+  .dashboard td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .dashboard th {
+    cursor: pointer;
+  }
+  
+  .dashboard th:hover {
+    background-color: #f1f1f1;
+  }
+  
